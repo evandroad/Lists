@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Lists" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/blue_3</item>
+        <item name="colorPrimaryDark">@color/blue_4</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+</resources>
